@@ -1,21 +1,3 @@
-```markdown
-# [cite_start]Laporan Tugas Akhir Praktik Terintegrasi XI SIJA 2026 [cite: 1]
-
-[cite_start]**Identitas Murid** [cite: 13]
-* [cite_start]**Nama:** Muhammad Alif Wahyudi [cite: 14, 15]
-* [cite_start]**Kelas:** XI SIJA 2 [cite: 16, 17]
-* **No. [cite_start]Absen:** 24 [cite: 20]
-* **Topologi:** Linux Server - Cisco - MikroTik - Linux Client (EVE-NG)
-
----
-
-## [cite_start]TUGAS 1: Linux Server [cite: 192, 193]
-[cite_start]Server ini bertindak sebagai Web Server dan SSH Server[cite: 57, 216, 217], serta DNS Server lokal.
-
-**1. [cite_start]Mengatur Hostname** [cite: 194, 195]
-```bash
-sudo hostnamectl set-hostname server-absen24
-
 ```
 
 2. Konfigurasi IP Address (Netplan) Mengatur IP statis IPv4 `192.168.24.10/24` dan IPv6 `2001:db8:24::10/64` serta menentukan gateway.
